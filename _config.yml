@@ -1,0 +1,10 @@
+# Site settings
+title: Kompete
+description: >
+  We build software.
+baseurl: ""
+production_url : http://kompete.github.io
+encoding: utf-8
+
+# Build settings
+markdown: redcarpet
