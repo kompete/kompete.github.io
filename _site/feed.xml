@@ -6,9 +6,61 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 18 Aug 2015 00:31:37 +0800</pubDate>
-    <lastBuildDate>Tue, 18 Aug 2015 00:31:37 +0800</lastBuildDate>
+    <pubDate>Tue, 18 Aug 2015 01:05:34 +0800</pubDate>
+    <lastBuildDate>Tue, 18 Aug 2015 01:05:34 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Standards</title>
+        <description>&lt;h2&gt;Version Control&lt;/h2&gt;
+
+&lt;p&gt;We use git as our version control tool, following the standard &lt;a href=&quot;https://github.com/agis-/git-style-guide&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Java&lt;/h2&gt;
+
+&lt;p&gt;We follow &lt;a href=&quot;https://google.github.io/styleguide/javaguide.html&quot;&gt;Google Java Style&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;C&lt;/h2&gt;
+
+&lt;p&gt;We follow &lt;a href=&quot;https://msdn.microsoft.com/en-us/library/ff926074.aspx&quot;&gt;Microsoft C# Coding Conventions (C# Programming Guide)&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Javascript&lt;/h2&gt;
+
+&lt;p&gt;We follow &lt;a href=&quot;https://github.com/airbnb/javascript#types&quot;&gt;AirBnB Javascript Code Style&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;JSON&lt;/h2&gt;
+
+&lt;p&gt;We follow &lt;a href=&quot;https://google.github.io/styleguide/jsoncstyleguide.xml&quot;&gt;Google JSON Style Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Objective-C&lt;/h2&gt;
+
+&lt;p&gt;We follow &lt;a href=&quot;https://google.github.io/styleguide/objcguide.xml&quot;&gt;Google Objective-C Style Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Swift&lt;/h2&gt;
+
+&lt;p&gt;We follow &lt;a href=&quot;https://github.com/github/swift-style-guide&quot;&gt;Github Swift Style Guide&lt;/a&gt;.
+&lt;i&gt;Because swift has not been finalized, this is a temporal solution. We are seeking more mature standard.&lt;/i&gt;&lt;/p&gt;
+
+&lt;h2&gt;Python&lt;/h2&gt;
+
+&lt;p&gt;We follow &lt;a href=&quot;https://google.github.io/styleguide/pyguide.html&quot;&gt;Google Python Style Guide&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Ruby&lt;/h2&gt;
+
+&lt;p&gt;We follow &lt;a href=&quot;https://github.com/airbnb/ruby&gt;AirBnB Ruby Code Style&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Shell&lt;/h2&gt;
+
+&lt;p&gt;We follow &lt;a href=&quot;https://google.github.io/styleguide/shell.xml&gt;Google Shell Style Guide&lt;/a&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Aug 2015 19:51:03 +0800</pubDate>
+        <link>/wiki/2015/08/17/wiki-standars.html</link>
+        <guid isPermaLink="true">/wiki/2015/08/17/wiki-standars.html</guid>
+        
+        
+        <category>wiki</category>
+        
+      </item>
     
       <item>
         <title>Design</title>
