@@ -98,8 +98,7 @@ a {
     }
 
     &:hover {
-        color: darken($link-color, 10%);
-        text-decoration: none;
+        color: lighten($link-color, 30%);
     }
 }
 
@@ -112,7 +111,7 @@ blockquote {
     color: darken($grey-color, 10%);
     border-left: 2px solid $grey-color-light;
     padding-left: $spacing-unit / 2;
-/*   
+/*
     letter-spacing: -1px;
     font-size: 14px;
     font-style: italic;
@@ -205,4 +204,3 @@ pre {
         }
     }
 }
-

@@ -66,13 +66,12 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
-  color: #006048;
+  color: #d42b51;
   text-decoration: none; }
   a:visited {
-    color: #006048; }
+    color: #d42b51; }
   a:hover {
-    color: #002d22;
-    text-decoration: none; }
+    color: #eeaaba; }
 
 /**
  * Blockquotes
@@ -81,7 +80,7 @@ blockquote {
   color: dimgray;
   border-left: 2px solid #e8e8e8;
   padding-left: 15px;
-  /*   
+  /*
       letter-spacing: -1px;
       font-size: 14px;
       font-style: italic;
@@ -229,7 +228,7 @@ a.site-title:visited {
 
 .footer-col-wrapper {
   font-size: 15px;
-  color: #00936f;
+  color: #dd5574;
   margin-left: -15px; }
 
 .footer-col {
@@ -273,10 +272,11 @@ a.site-title:visited {
   font-size: 20px; }
 
 .post-list {
+  margin-top: 20px;
   margin-left: 0;
   list-style: none; }
   .post-list > li {
-    margin-bottom: 10px; }
+    margin-bottom: 6px; }
 
 .post-meta {
   font-size: 14px;
@@ -325,6 +325,15 @@ a.site-title:visited {
 
 .text {
   color: #828282; }
+
+.menu a {
+  margin-right: 20px; }
+
+.introduction {
+  margin-top: 40px; }
+
+.headline {
+  margin-top: 30px; }
 
 /**
  * Syntax highlighting styles
