@@ -341,6 +341,34 @@ a.site-title:visited {
   vertical-align: bottom;
   color: #dd5574; }
 
+.home-service {
+  padding-top: 20px;
+  padding-bottom: 10px;
+  overflow: auto; }
+
+.home-service-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 4em;
+  vertical-align: bottom; }
+
+.home-service-title-right {
+  float: right;
+  margin-top: -10px; }
+
+.home-service-content {
+  margin-top: 5px; }
+
+.home-service-content-right {
+  float: right; }
+
+.highlight {
+  color: #dd5574;
+  font-weight: bolder; }
+
+.home-contact a {
+  font-weight: bolder; }
+
 /**
  * Syntax highlighting styles
  */
