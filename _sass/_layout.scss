@@ -261,3 +261,10 @@ a.site-title:visited {
 .headline {
   margin-top: 30px;
 }
+
+.sub-title {
+  text-transform: uppercase;
+  font-weight: bold;
+  vertical-align: bottom;
+  color: lighten($link-color, 10%);
+}
