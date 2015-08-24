@@ -291,7 +291,8 @@ a.site-title:visited {
  * Posts
  */
 .post-header {
-  margin-bottom: 30px; }
+  margin-bottom: 30px;
+  margin-top: 30px; }
 
 .post-title {
   font-size: 32px;
@@ -368,6 +369,9 @@ a.site-title:visited {
 
 .home-contact a {
   font-weight: bolder; }
+
+.blogs {
+  margin-top: 20px; }
 
 /**
  * Syntax highlighting styles

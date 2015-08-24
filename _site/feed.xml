@@ -6,9 +6,23 @@
 </description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 24 Aug 2015 01:45:10 +0800</pubDate>
-    <lastBuildDate>Mon, 24 Aug 2015 01:45:10 +0800</lastBuildDate>
+    <pubDate>Mon, 24 Aug 2015 12:23:59 +0800</pubDate>
+    <lastBuildDate>Mon, 24 Aug 2015 12:23:59 +0800</lastBuildDate>
     <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>Think Deeply about Your Ideas</title>
+        <description>&lt;p&gt;I get ideas now and then. As an engineer, I like to test it &lt;strong&gt;in my mind&lt;/strong&gt; thoroughly before taking any action.
+Some may ask, what about MVP? What about failing it early? What about iteration?&lt;/p&gt;
+</description>
+        <pubDate>Mon, 24 Aug 2015 19:51:03 +0800</pubDate>
+        <link>/blog/2015/08/24/idea-matters.html</link>
+        <guid isPermaLink="true">/blog/2015/08/24/idea-matters.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
     
       <item>
         <title>Standards</title>

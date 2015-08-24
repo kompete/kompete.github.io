@@ -200,6 +200,7 @@ a.site-title:visited {
  */
 .post-header {
     margin-bottom: $spacing-unit;
+    margin-top: $spacing-unit;
 }
 
 .post-title {
@@ -303,4 +304,8 @@ a.site-title:visited {
 
 .home-contact a {
   font-weight: bolder;
+}
+
+.blogs {
+  margin-top: 20px;
 }

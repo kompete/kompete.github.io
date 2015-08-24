@@ -1,3 +1,19 @@
 ---
-layout: default
+layout: blog
 ---
+
+<div class="blogs">
+  <ul>
+    {% for post in site.categories.blog %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <span class="post-meta">
+          posted at {{ post.date | date: "%Y-%m-%d" }}{% if post.author %} by {{ post.author }}{% endif %}{% if post.meta %} • {{ post.meta }}{% endif %}
+        </span>
+        <p>
+          {{ post.excerpt }}
+        </p>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
